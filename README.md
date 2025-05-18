@@ -1,6 +1,6 @@
 # ProShop
 
-- Experience the live App [Here](https://proshop-faze.vercel.app/): Explore the live e-commerce platform and test its features.
+- Experience the live App [Here](https://proshop-liard.vercel.app/): Explore the live e-commerce platform and test its features.
 - A full-stack e-commerce web application that allows users to browse products, add them to a cart, and securely place orders. The platform includes key features such as user authentication, admin dashboards, order management, and payment processing.
 - Built with React for the frontend, Redux for state management, Node.js and Express for the backend, and MongoDB as the database. The app integrates PayPal for payment processing and leverages the latest React features like hooks and functional components.
 - The application supports user roles (admin and customer), dynamic product listing, real-time order updates, and is designed to be easily deployable and scalable for real-world use cases.
