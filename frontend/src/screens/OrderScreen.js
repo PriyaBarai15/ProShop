@@ -54,7 +54,7 @@ const OrderScreen = () => {
 
     const getPayPalClientId = async () => {
       const { data: clientId } = await axios.get(
-        `https://proshop-ecommerce-01vy.onrender.com/api/config/paypal`
+        `https://proshop-4d0x.onrender.com/api/config/paypal`
       );
       setPaypalClientId(clientId);
     };

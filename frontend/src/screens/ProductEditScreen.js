@@ -67,7 +67,7 @@ const ProductEditScreen = () => {
       };
 
       const { data } = await axios.post(
-        `https://proshop-ecommerce-01vy.onrender.com/api/upload`,
+        `https://proshop-4d0x.onrender.com/api/upload`,
         formData,
         config
       );
